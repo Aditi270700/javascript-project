@@ -1,16 +1,16 @@
 {
-"Student":[
+  "Student": [
     {
-    "name":"Aditi saudagar",
-     "age":24,
-     "address":"gfghfghjghhkjh"
-     
+      "name": "dipika sharma",
+      "age": "25",
+      "address": "ratnagiri bypass",
+      "id": "6206"
     },
     {
-    "name":"dipika sharma",
-     "age":22,
-     "address":"hgfhjhkjkjkjjjhgfg"
+      "name": "aditi saudagar",
+      "age": "35",
+      "address": "tanatan dhaba bhopal",
+      "id": "65e0"
     }
-]
+  ]
 }
-

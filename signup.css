@@ -41,13 +41,14 @@ button {
     width: 100%;
     padding: 10px;
     background-color:lightseagreen;
-    color: black;
+    color:black;
     border: none;
+    text-decoration: none;
     border-radius: 4px;
     cursor: pointer;
 }
 
 button:hover {
- background-color:darkcyan;
+background-color:darkcyan;
 }
 
